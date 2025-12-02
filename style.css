@@ -220,61 +220,9 @@ body {
 }
 
 
-/* responsive */
 
-/* laptop device */
 
-/* @media screen and (max-width: 1200px) {
 
-  .hero-content h1{
-    font-size: 32px;
-    margin-bottom: 30px;
-  }
-
-   .hero-btn{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-   }
-
-   #hero-content p{
-    font-size: 14px;
-   }
-}
-/* tablet device */
-/* @media screen and (max-width: 1024px) {
-  #hero-container{
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .hero-btn{
-    flex-direction: row;
-    justify-content: center;
-  }
-
-  #hero-content {
-    
-    padding-bottom: 0;
-    
-  }
-
-  #hero-image img{
-    width:320px;
-    vertical-align: middle;
-  }
-}
-
-/* mobile device landscape 
-@media screen and (max-width: 768px) {
-
-} */
-
-/* mobile device portrait
-@media screen and (max-width: 568px) {
-
-}  */
 
 
 
